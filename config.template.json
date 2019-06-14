@@ -1,0 +1,7 @@
+{
+  "CLIENT_ID": "<your-spotify-client-id>",
+  "CLIENT_SECRET": "<your-spotify-client-secret>",
+  "OUTPUT_FILE": "output.json",
+  "PLAYLIST_ID": "<your-spotify-playlist-id>",
+  "USERNAME": "<your-spotify-username>"
+}
